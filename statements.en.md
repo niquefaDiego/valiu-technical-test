@@ -1,6 +1,6 @@
 # Problem 1. Watchmen
 
-David's residential complex needs a watchman for each of the next $m$ ($1 \leq m \leq 10^6$) days, days are numbered from $1$ to $m$. The complex has $n$ ($1 \leq n \leq 10^6$) watchmen, watchman $i$ is only available to work from day $a_i$ until day $b_i$, inclusive ($1 \leq a[i] \leq b[i] \leq m$). ¿How many of the next $m$ days can have a watchman on duty?
+David's residential complex needs a watchman for each of the next $m$ ($1 \leq m \leq 10^6$) days, days are numbered from $1$ to $m$. The complex has $n$ ($1 \leq n \leq 10^6$) watchmen, watchman $i$ is only available to work from day $a_i$ until day $b_i$, inclusive ($1 \leq a[i] \leq b[i] \leq m$). How many of the next $m$ days can have a watchman on duty?
 
 ## Example
 
@@ -20,7 +20,7 @@ Days 1, 2, 3, 4, 5, 8 y 9 can have a watchman. But no watchman is available on d
 
 # Problem 2. Count misordered pairs
 
-Given an array $a$ of $n$ ($n <= 10^6$) distinct integer numbers. ¿How many pairs of indexes $(i,j)$ are there such that $i < j$ and $a_i > a_j$?
+Given an array $a$ of $n$ ($n <= 10^6$) distinct integer numbers. How many pairs of indexes $(i,j)$ are there such that $i < j$ and $a_i > a_j$?
   
 
 ## Example
